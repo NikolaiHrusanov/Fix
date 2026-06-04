@@ -176,3 +176,12 @@ Suggested features:
 * Mobile-friendly design
 
 All card information, transfers, balances, and transactions must be synced with Supabase and update in real time.
+
+
+
+
+
+
+
+could you make it if someone want to add a card they need to add all the 16 digits, 
+When creating a card with NexusBank you coud also chose to be a card with outr parthners for example Flexi and Blaze Wear or just us.Make the cards menu more finalized with adding stuf 
